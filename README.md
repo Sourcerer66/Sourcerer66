@@ -1,8 +1,8 @@
 ## Hello!!
 
-# Im currently working on improving my bash and linux skills
-# Reach me by my email😀
-# Fun facts: I live math, music, playing drums and coding!
+### Im currently working on improving my bash and linux skills
+### Reach me by my email😀
+### Fun facts: I live math, music, playing drums and coding!
 
 <!--
 **Sourcerer66/Sourcerer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
